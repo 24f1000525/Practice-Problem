@@ -19,4 +19,20 @@
 | [0450-delete-node-in-a-bst](https://github.com/24f1000525/Practice-Problem/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/24f1000525/Practice-Problem/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/24f1000525/Practice-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
