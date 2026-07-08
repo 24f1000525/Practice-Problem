@@ -22,17 +22,28 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
