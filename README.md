@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
+| [0994-rotting-oranges](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,8 +43,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
