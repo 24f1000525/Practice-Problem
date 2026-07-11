@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/24f1000525/Practice-Problem/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -56,6 +58,11 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/24f1000525/Practice-Problem/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
