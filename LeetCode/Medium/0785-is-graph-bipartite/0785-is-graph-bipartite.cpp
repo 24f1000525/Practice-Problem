@@ -12,7 +12,7 @@ public:
     }
     bool isBipartite(vector<vector<int>>& graph) {
         int m=graph.size();
-        int n=graph.size();
+        
 
         vector<int> color(m,-1);
 
